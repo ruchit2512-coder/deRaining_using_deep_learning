@@ -22,10 +22,6 @@ Image Relighting-[[MB-Net]](https://github.com/weitingchen83/NTIRE2021-Depth-Gui
 
 
 # Experimental Results
-## Quantitative Evaluation
-![image](/img_repo/quantitative_heavy.png)
-![image](/img_repo/quantitative_moderate.png)
-
 ## Qualitative Evaluation
 ![image](/img_repo/qualitative_heavy.png)
 ![image](/img_repo/qualitative_moderate.png)
