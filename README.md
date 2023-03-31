@@ -51,16 +51,3 @@ For heavy rain (trained on Heavy Rain dataset)
 ```
 $ python test_real.py --ckpt ckpt/heavyrain --real_dir input_img/heavy
 ```
-
-# Citations
-Please cite this paper in your publications if it is helpful for your tasks:    
-
-Bibtex:
-```
-@inproceedings{chen2021contour,
-  title={ContourletNet: A Generalized Rain Removal Architecture Using Multi-Direction Hierarchical Representation},
-  author={Chen, Wei-Ting and Tsai, Cheng-Che and Fang, Hao-Yu and and Chen, I-Hsiang and Ding, Jian-Jiun and Kuo, Sy-Yen},
-  booktitle={Proceedings of the British Machine Vision Conference},
-  year={2021}
-}
-```
